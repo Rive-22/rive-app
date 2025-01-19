@@ -1,0 +1,7 @@
+{
+  "name": "rive-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
